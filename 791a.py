@@ -18,3 +18,4 @@ while(a<=b):
     b*=2
     y+=1
 print(y)
+#1

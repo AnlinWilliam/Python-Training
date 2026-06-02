@@ -12,3 +12,4 @@ if w%2!=0 or w==2:
     print("No")
 else:
     print("Yes")
+#1
