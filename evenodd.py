@@ -7,3 +7,4 @@ for i in l:
     else:
          res.insert(0,i)
 print(res)
+#2
