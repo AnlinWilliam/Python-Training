@@ -8,3 +8,4 @@ def maze(grid,path,i,j,n):
         maze(grid,path+'R',i,j+1,n)  
     
 grid=[[]]
+#rat in maze
